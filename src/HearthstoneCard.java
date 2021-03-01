@@ -1,3 +1,4 @@
+
 public class HearthstoneCard 
 {
 	private int cost;
@@ -11,7 +12,6 @@ public class HearthstoneCard
 		this.attack = attack;
 		this.defense = defense;
 		this.name = name;
-		
 	}
 	
 	public int getCost()
